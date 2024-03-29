@@ -49,7 +49,6 @@ max-width: 750px !important;box-shadow: 4px 9px 12px #00000024;padding:22px !imp
 
         </div>
     @endif
-
 </div>
 
 
